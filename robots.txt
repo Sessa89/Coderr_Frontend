@@ -1,0 +1,5 @@
+# Verbieten aller rechtlichen Seiten 
+
+User-agent: *
+Disallow: /imprint.html
+Disallow: /privacy_policy.html
